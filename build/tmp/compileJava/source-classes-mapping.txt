@@ -1,0 +1,8 @@
+ke/co/lawrencekaranja/covidvaccinetracker/vaccinetracker/repositories/PopulationRepository.java
+ ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.repositories.PopulationRepository
+ke/co/lawrencekaranja/covidvaccinetracker/vaccinetracker/VaccinetrackerApplication.java
+ ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.VaccinetrackerApplication
+ke/co/lawrencekaranja/covidvaccinetracker/vaccinetracker/entities/Population.java
+ ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.entities.Population
+ke/co/lawrencekaranja/covidvaccinetracker/vaccinetracker/controllers/PopulationController.java
+ ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.controllers.PopulationController
