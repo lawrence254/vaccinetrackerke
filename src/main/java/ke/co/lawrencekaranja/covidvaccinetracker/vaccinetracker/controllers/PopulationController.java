@@ -1,5 +1,6 @@
 package ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.controllers;
 
+import ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.entities.Centers;
 import ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.entities.Population;
 import ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.repositories.PopulationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,6 +25,12 @@ public class PopulationController {
         user.setContact(contact);
         user.setIdentifier(uuid.toString());
         return populationRepository.save(user);
+    }
 
+    @GetMapping(path = "/users")
+    @ResponseStatus(HttpStatus.OK)
+    public @ResponseBody
+    Iterable<Population> getAllUsers(){
+        return populationRepository.findAll();
     }
 }

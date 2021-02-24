@@ -14,7 +14,6 @@ public class Population {
     private String identifier;
     private String contact;
 
-
     public Integer getPerson_id(){
          return person_id;
      }
