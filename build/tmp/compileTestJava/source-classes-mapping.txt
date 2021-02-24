@@ -1,4 +1,4 @@
-ke/co/lawrencekaranja/covidvaccinetracker/vaccinetracker/VaccinetrackerApplicationTests.java
- ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.VaccinetrackerApplicationTests
 ke/co/lawrencekaranja/covidvaccinetracker/vaccinetracker/controllers/PopulationControllerTest.java
  ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.controllers.PopulationControllerTest
+ke/co/lawrencekaranja/covidvaccinetracker/vaccinetracker/VaccinetrackerApplicationTests.java
+ ke.co.lawrencekaranja.covidvaccinetracker.vaccinetracker.VaccinetrackerApplicationTests
